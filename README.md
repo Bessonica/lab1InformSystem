@@ -1,6 +1,8 @@
 # lab 1 project 
 information system for library
 
+screenshots below
+
 we have books and magazines table
 ## Books:
  - name, genre, year
@@ -52,3 +54,4 @@ functions, responsible for tree management
 - treemagaz_*** (add, update, delete))
 
 # Screenshots
+dont forget to add them
