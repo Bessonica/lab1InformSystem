@@ -54,4 +54,24 @@ functions, responsible for tree management
 - treemagaz_*** (add, update, delete))
 
 # Screenshots
-dont forget to add them
+
+
+# Example screenshots
+
+## add data to sqLight
+![alt text](https://github.com/Bessonica/lab1InformSystem/blob/main/images/addData.PNG)
+![alt text](https://github.com/Bessonica/lab1InformSystem/blob/main/images/sqlite.PNG)
+![alt text](https://github.com/Bessonica/lab1InformSystem/blob/main/images/sqlite1.PNG)
+
+## export it to mSQL, postgreSQL
+
+### mySQL
+![alt text](https://github.com/Bessonica/lab1InformSystem/blob/main/images/sql1.PNG)
+![alt text](https://github.com/Bessonica/lab1InformSystem/blob/main/images/sql2.PNG)
+
+#### example of sqLite 
+
+### postgreSQL
+![alt text](https://github.com/Bessonica/lab1InformSystem/blob/main/images/pSQL1.PNG)
+![alt text](https://github.com/Bessonica/lab1InformSystem/blob/main/images/psql2.PNG)
+
