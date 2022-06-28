@@ -41,12 +41,14 @@ in postgreSQL we have database test. **setupPostgSQL.py**
 - name: test
 - tables: (books1, magazines1)
 
-
-function, responsible for SQLight -> mySQL:  **insertSQLightIntoMysql** 
-function, responsible for mySQL -> postgreSQL:  **insertMysqlToPostgreSQL**
-you can find them in file (exportDB.py)
+## functions in start.py
+1. function, responsible for SQLight -> mySQL:  **insertSQLightIntoMysql** 
+2. function, responsible for mySQL -> postgreSQL: **insertMysqlToPostgreSQL**
+3. you can find them in file (exportDB.py)
 
 
 functions, responsible for tree management 
 - treebook_***  (add, update, delete)
 - treemagaz_*** (add, update, delete))
+
+# Screenshots
