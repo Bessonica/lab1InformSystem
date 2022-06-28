@@ -1,0 +1,18 @@
+1) DONE  окно из которого можно добавить новій єлемент базі данних
+2) DONE  окно где показано содержание базы данных
+3) DONE  окно в котором можно удалить нужный элемент базы данных
+4) DONE  окно в котором можно изменить существующий элемент базы данных
+
+функции для интерфейса в отжельном файле
+ф для базы в отдельном файле 
+и тд
+
+5) DONE добавить вторую DB
+6) DONE install Mysql
+7) DONE setup mysql, create copy of db(if needed)
+8) DONE install postgreSQL
+9) DONE setup postgreSQL, create copy of db(if needed)
+
+10) DONE migrate sqlite - mysql
+11) DONE migrate mysql - postgresql
+12) SHOW both db in console? or in gui?
